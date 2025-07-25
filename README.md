@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
-**yashu-1422/yashu-1422** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,6 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yashu-1422)](https://github.com/ryo-ma/github-profile-trophy)
