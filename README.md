@@ -5,7 +5,7 @@ I'm a passionate and enthusiastic **Engineer** with a keen interest in **web dev
 ---
 
 ### 🌱 **I'm currently learning:**
-* More advanced concepts in web development (e.g., specific frameworks, backend technologies)
+* More advanced concepts in web development spring boot
 * Deeper dives into data analysis and machine learning techniques
 
 ---
@@ -29,8 +29,8 @@ I'm a passionate and enthusiastic **Engineer** with a keen interest in **web dev
 ---
 
 ### 🤝 **Let's connect!**
-* **LinkedIn:** [Your LinkedIn Profile URL] (e.g., `https://www.linkedin.com/in/your-profile/`)
-* **Email:** [Your Email Address] (e.g., `mailto:youremail@example.com`)
+* **LinkedIn:** [Your LinkedIn Profile URL]  `https://www.linkedin.com/in/your-profile/`)
+* **Email:** [mailto:yashauti5@example.com]  ``)
 * **Portfolio/Website:** [Your Portfolio URL if you have one]
 
 ---
