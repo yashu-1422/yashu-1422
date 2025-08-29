@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/yashu-1422](https://github.com/yashu-1422)
 
-- 📫 How to reach me **autiy93@gmail.com**
+- 📫 How to reach me **yashauti5@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
